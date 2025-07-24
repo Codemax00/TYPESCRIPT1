@@ -2345,7 +2345,7 @@ const tasks: Task[] = [];
 ```
 
 ## Tasks - Part 4
-
+..
 ```ts
 taskForm?.addEventListener('submit', (event) => {
   event.preventDefault();
